@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\bin\Debug\net8.0\TriangleTypeIdentifierApp.exe
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\bin\Debug\net8.0\TriangleTypeIdentifierApp.deps.json
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\bin\Debug\net8.0\TriangleTypeIdentifierApp.runtimeconfig.json
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\bin\Debug\net8.0\TriangleTypeIdentifierApp.dll
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\bin\Debug\net8.0\TriangleTypeIdentifierApp.pdb
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\obj\Debug\net8.0\TriangleTypeIdentifierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\obj\Debug\net8.0\TriangleTypeIdentifierApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\obj\Debug\net8.0\TriangleTypeIdentifierApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\obj\Debug\net8.0\TriangleTypeIdentifierApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\obj\Debug\net8.0\TriangleTypeIdentifierApp.sourcelink.json
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\obj\Debug\net8.0\TriangleTypeIdentifierApp.dll
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\obj\Debug\net8.0\refint\TriangleTypeIdentifierApp.dll
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\obj\Debug\net8.0\TriangleTypeIdentifierApp.pdb
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\obj\Debug\net8.0\TriangleTypeIdentifierApp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\TriangleTypeIdentifierApp\obj\Debug\net8.0\ref\TriangleTypeIdentifierApp.dll

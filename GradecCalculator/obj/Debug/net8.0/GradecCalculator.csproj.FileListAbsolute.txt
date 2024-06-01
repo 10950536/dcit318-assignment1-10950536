@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\bin\Debug\net8.0\GradecCalculator.exe
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\bin\Debug\net8.0\GradecCalculator.deps.json
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\bin\Debug\net8.0\GradecCalculator.runtimeconfig.json
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\bin\Debug\net8.0\GradecCalculator.dll
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\bin\Debug\net8.0\GradecCalculator.pdb
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\obj\Debug\net8.0\GradecCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\obj\Debug\net8.0\GradecCalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\obj\Debug\net8.0\GradecCalculator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\obj\Debug\net8.0\GradecCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\obj\Debug\net8.0\GradecCalculator.sourcelink.json
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\obj\Debug\net8.0\GradecCalculator.dll
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\obj\Debug\net8.0\refint\GradecCalculator.dll
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\obj\Debug\net8.0\GradecCalculator.pdb
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\obj\Debug\net8.0\GradecCalculator.genruntimeconfig.cache
+C:\Users\Admin\source\repos\dcit318-assignment1-10950536\GradecCalculator\obj\Debug\net8.0\ref\GradecCalculator.dll
